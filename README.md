@@ -9,4 +9,13 @@ custom config for `tmux`, using [github/gpakosz/.tmux](https://github.com/gpakos
 
 ## nvim + nvchad
 
-install [nvchad](nvchad.github.io), and `mkdir -p ~/.config/nvim/lua/custom/ && cp nvchad/custom/* ~/.config/nvim/lua/custom/`
+- install [nvchad](nvchad.github.io)
+- then run `mkdir -p ~/.config/nvim/lua/custom/ && cp nvchad/custom/* ~/.config/nvim/lua/custom/`
+
+## pyenv 
+
+- install `brew install pyenv`
+
+## nvm 
+
+run  `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
